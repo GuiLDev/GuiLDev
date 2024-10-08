@@ -9,7 +9,7 @@
 <img align="right" height="175" width="300" alt="GIF" src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" />
 
 ### 🌟 Sobre mim:
-- 💼 **Ocupação Atual**: Trabalhando como Desenvolvedor Frontend focado em **JavaScript**, **HTML**, e **CSS**.
+- 💼 **Ocupação Atual**: Estudando e criando projetos em **JavaScript**, **HTML**, e **CSS**.
 - 🏆 **Metas de 2024**: Aprender toda base de Javascript e o próximo passo é ir direto para frameworks como Vue.
 - ⚡ **Curiosidade**: Não tomo café.
 
@@ -30,8 +30,8 @@
 
 ### 📈 Estatísticas do GitHub:
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true&hide=issues" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&langs_count=8&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiLDev&show_icons=true&theme=radical&count_private=true&hide=issues" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLDev&langs_count=8&layout=compact&theme=radical" />
 </p>
 
 ---
