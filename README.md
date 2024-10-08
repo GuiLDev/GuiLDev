@@ -1,4 +1,4 @@
-<h1 align="center">Guilherme aqui!</h1>
+<h1 align="center">Guilherme aqui! ✌</h1>
 
 <p align="center">
    Desenvolvedor Frontend | Junior em JS, HTML, CSS | Em breve: Vue & Nuxt 🚀
@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" height="175" width="300" alt="GIF" src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" />
 
 ### 🌟 Sobre mim:
 - 💼 **Ocupação Atual**: Estudando e criando projetos em **JavaScript**, **HTML**, e **CSS**.
