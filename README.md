@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" height="250" width="375" alt="GIF" src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" />
+<img align="right" height="200" width="275" alt="GIF" src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" />
 
 ### 🌟 Sobre mim:
 - 💼 **Ocupação Atual**: Trabalhando como Desenvolvedor Frontend focado em **JavaScript**, **HTML**, e **CSS**.
