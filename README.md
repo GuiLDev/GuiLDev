@@ -6,8 +6,6 @@
 
 ---
 
-<img align="right" height="150" width="300" alt="GIF" src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" />
-
 ### 🌟 Sobre mim:
 - 💼 **Ocupação Atual**: Estudando e criando projetos em **JavaScript**, **HTML**, e **CSS**.
 - 🏆 **Metas de 2024**: Aprender toda base de Javascript e o próximo passo é ir direto para frameworks como Vue.
