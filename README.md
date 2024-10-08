@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" />
+<img align="right" height="150" width="300" alt="GIF" src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" />
 
 ### 🌟 Sobre mim:
 - 💼 **Ocupação Atual**: Estudando e criando projetos em **JavaScript**, **HTML**, e **CSS**.
