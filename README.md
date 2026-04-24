@@ -8,7 +8,7 @@
 
 ### 🌟 Sobre mim:
 - 💼 **Ocupação Atual**: Estudando e criando projetos em **JavaScript**, **HTML**, e **CSS**.
-- 🏆 **Metas de 2024**: Aprender toda base de Javascript e o próximo passo é ir direto para frameworks como Vue.
+- 🏆 **Metas de 2026**: Aprender toda base de Javascript e o próximo passo é ir direto para frameworks como Vue.
 - ⚡ **Curiosidade**: Não tomo café.
 
 ---
