@@ -1,25 +1,26 @@
 <h1 align="center">Guilherme aqui! ✌</h1>
 
 <p align="center">
-   Desenvolvedor Frontend | Junior em JS, HTML, CSS | Em breve: Vue & Nuxt 🚀
+   Desenvolvedor Backend | Node.js | APIs REST | MongoDB 🚀
 </p>
 
 ---
 
 ### 🌟 Sobre mim:
-- 💼 **Ocupação Atual**: Estudando e criando projetos em **JavaScript**, **HTML**, e **CSS**.
-- 🏆 **Metas de 2026**: Aprender toda base de Javascript e o próximo passo é ir direto para frameworks como Vue.
+- 💼 **Ocupação Atual**: Estudando e criando projetos com **Node.js**, **JavaScript**, **APIs REST** e **MongoDB**.
+- 🏆 **Metas de 2026**: Dominar a base do **JavaScript no backend**, trabalhar com **bancos de dados** e construir APIs completas e escaláveis.
 - ⚡ **Curiosidade**: Não tomo café.
 
 ---
 
 ### 🚀 Tecnologias & Ferramentas:
 <p align="left">
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js"/>
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
 </p>
 
 ---
@@ -42,9 +43,11 @@
 
 ### 🚀 Roadmap Futuro:
 - 🎯 **Explorando em breve**:
-  - Criar uma aplicação completa com **Vue.js** e **Nuxt.js**, com foco em otimização de SEO e performance.
-  - Desenvolver **Componentes UI reutilizáveis** com **TailwindCSS** e **Vue**.
-  - Aprimorar minhas habilidades em **SSR (Server-Side Rendering)** com **Nuxt.js**.
+  - Criar **APIs REST completas** com **Node.js** e **Express**.
+  - Trabalhar com **banco de dados MongoDB**, modelagem e integração.
+  - Implementar autenticação (**JWT**) e segurança em aplicações backend.
+  - Estruturar projetos seguindo boas práticas (**MVC**, organização de rotas e controllers).
+  - Integração com serviços externos e consumo de APIs.
 
 ---
 
