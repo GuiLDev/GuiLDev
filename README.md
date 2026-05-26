@@ -27,16 +27,8 @@
 
 ### 📈 Estatísticas do GitHub:
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=GuiLDev&show_icons=true&theme=radical&hide=issues&cache_seconds=1800"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLDev&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"
-    alt="Top languages"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiLDev&show_icons=true&theme=radical&hide=issues" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLDev&langs_count=8&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
