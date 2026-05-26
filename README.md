@@ -27,8 +27,8 @@
 
 ### 📈 Estatísticas do GitHub:
 <p align="center">
-  <img height="165" src="./generated/overview.svg" alt="GitHub stats" />
-  <img height="165" src="./generated/languages.svg" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
